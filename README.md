@@ -20,6 +20,8 @@ First, please install the Openhaptics SDK from this location:
 
 https://github.com/jhu-cisst-external/phantom-omni-1394-drivers
 
+All required files are in `driver_install` folder, you may check for details.
+
 ### How to run
 After you build the package with ROS, you can run it as
 
