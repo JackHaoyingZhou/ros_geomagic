@@ -1,0 +1,3 @@
+[submodule "driver_install/geomagic-drivers"]
+	path = driver_install/geomagic-drivers
+	url = https://github.com/JackHaoyingZhou/geomagic-drivers.git
