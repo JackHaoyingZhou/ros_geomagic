@@ -1,3 +1,3 @@
-[submodule "driver_install/geomagic-drivers"]
-	path = driver_install/geomagic-drivers
-	url = https://github.com/JackHaoyingZhou/geomagic-drivers.git
+[submodule "driver_install/3ds-touch-openhaptics"]
+	path = driver_install/3ds-touch-openhaptics
+	url = https://github.com/JackHaoyingZhou/3ds-touch-openhaptics.git
